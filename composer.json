@@ -1,0 +1,13 @@
+{
+    "name": "okhlud/url_parser",
+    "description": "test",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Olga Khlud",
+            "email": "khlud.olga@mail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
